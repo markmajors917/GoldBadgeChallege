@@ -1,0 +1,6 @@
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\02_KomodoOutings_Repo\bin\Debug\02_KomodoOutings_Repo.dll
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\02_KomodoOutings_Repo\bin\Debug\02_KomodoOutings_Repo.pdb
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\02_KomodoOutings_Repo\obj\Debug\02_KomodoOutings_Repo.csprojAssemblyReference.cache
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\02_KomodoOutings_Repo\obj\Debug\02_KomodoOutings_Repo.csproj.CoreCompileInputs.cache
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\02_KomodoOutings_Repo\obj\Debug\02_KomodoOutings_Repo.dll
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\02_KomodoOutings_Repo\obj\Debug\02_KomodoOutings_Repo.pdb

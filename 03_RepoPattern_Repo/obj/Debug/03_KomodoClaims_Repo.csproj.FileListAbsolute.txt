@@ -1,0 +1,6 @@
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\03_RepoPattern_Repo\obj\Debug\03_KomodoClaims_Repo.csprojAssemblyReference.cache
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\03_RepoPattern_Repo\obj\Debug\03_KomodoClaims_Repo.csproj.CoreCompileInputs.cache
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\03_RepoPattern_Repo\bin\Debug\03_RepoPattern_Repo.dll
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\03_RepoPattern_Repo\bin\Debug\03_RepoPattern_Repo.pdb
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\03_RepoPattern_Repo\obj\Debug\03_RepoPattern_Repo.dll
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\03_RepoPattern_Repo\obj\Debug\03_RepoPattern_Repo.pdb

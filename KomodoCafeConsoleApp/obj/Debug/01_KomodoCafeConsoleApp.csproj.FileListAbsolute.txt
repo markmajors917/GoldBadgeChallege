@@ -1,0 +1,10 @@
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\bin\Debug\KomodoCafeConsoleApp.exe.config
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\bin\Debug\KomodoCafeConsoleApp.exe
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\bin\Debug\KomodoCafeConsoleApp.pdb
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\obj\Debug\01_KomodoCafeConsoleApp.csprojAssemblyReference.cache
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\obj\Debug\01_KomodoCafeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\obj\Debug\KomodoCafeConsoleApp.exe
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\obj\Debug\KomodoCafeConsoleApp.pdb
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\bin\Debug\01_RepositoryCafe.dll
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\bin\Debug\01_RepositoryCafe.pdb
+C:\Users\mmajo\source\repos\KomodoCafeConsoleApp\KomodoCafeConsoleApp\obj\Debug\01_KomodoCafeConsoleApp.csproj.CopyComplete
